@@ -1,0 +1,7 @@
+title        "yt-hide-upcoming"
+description  "Hide UPCOMING videos on YouTube's pages"
+media-type   "userscript"
+tags         "scripts"  "js"  "youtube"
+license      "CC0"
+homepage     "https://dym.sh/yt-hide-upcoming/"
+source       "https://source.garden/scripts/yt-hide-upcoming/"
